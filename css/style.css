@@ -3,6 +3,11 @@ body{
 
 }
 
+h1 {
+font-size: 50px;
+font-weight: 300;
+}
+
 .special-headline {
   font-weight: 900;
   color: indigo;
@@ -13,10 +18,10 @@ body{
   color: deeppink;
 }
 
-h1 {
-  font-size: 50px;
-  font-weight: 300;
-  color: greenyellow;
+h2,h3,h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #111111;
   }
 
   .post {
