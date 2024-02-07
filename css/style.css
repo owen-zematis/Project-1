@@ -29,6 +29,7 @@ h2,h3,h4 {
     border: 1px solid black;
     margin-bottom: 20px;
     padding: 10px 20px;
+    background-color: green;
 
     img {
       width: 100%;
