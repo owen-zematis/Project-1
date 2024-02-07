@@ -21,7 +21,7 @@ font-weight: 300;
 h2,h3,h4 {
   font-size: 20px;
   font-weight: 600;
-  color: #111111;
+  color: rgb(42, 193, 0);
   }
 
   .post {
