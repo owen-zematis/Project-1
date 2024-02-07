@@ -3,9 +3,40 @@ body{
 
 }
 
-h1 {
-font-size: 50px;
-font-weight: 300;
-color: greenyellow;
+.special-headline {
+  font-weight: 900;
+  color: indigo;
 }
 
+#unique-headline {
+  font-weight: 600;
+  color: deeppink;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 300;
+  color: greenyellow;
+  }
+
+  .post {
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+  }
+
+  .highlight {
+    background-color: black;
+    color: beige;
+    h2 {
+      color: bisque;
+    }
+
+  }
